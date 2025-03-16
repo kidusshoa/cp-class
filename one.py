@@ -5,10 +5,11 @@ Criminal = True
 text = "Competitive Programming"
 person = {"name": "Leul", "age": 31}
 
+x = 10
+z = float(x)
 
-print(type(person))
-
-
+print( x ,z)
+# print(type(person))
 # print(type(text))
 # print(type(Criminal))
 # print(type(status34))

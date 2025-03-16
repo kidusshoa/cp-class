@@ -1,5 +1,5 @@
 age = 18
-grade = 3
+grade = 1.6
 
 # this code is commented
 
@@ -13,5 +13,9 @@ variable = 8
 Variable = 9
 
 if age >= 18:
-    if grade >= 2.5:         
+    if grade >= 3.9:         
        print("You are old")
+    elif grade >= 3.5:
+        print(" your old and genius")
+    else:
+        print("go and start trading")
