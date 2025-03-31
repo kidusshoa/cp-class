@@ -8,7 +8,7 @@
 
 # print(factorial(4))
 
-# 1, 1, 2, 3, 5, 8, 13, 21
+# 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 
 
 # def fibonacci_recursive(n):
 #     if n == 0:
